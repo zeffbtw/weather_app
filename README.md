@@ -19,3 +19,7 @@ cd weatherapp
 
 # Установка зависимостей
 flutter pub get
+
+# Настройка api_keys.dart файла
+# Переименуйте файл api_keys.dart.example в api_keys.dart
+# Откройте файл api_keys.dart и добавьте ваш API ключ:
