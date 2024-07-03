@@ -1,0 +1,9 @@
+const double kDefaultPadding = 12;
+const String Lato = 'Lato';
+const String weatherBaseUrl = "https://api.weather.yandex.ru/v2";
+const String latKey = "LAT_KEY";
+const String lonKey = "LON_KEY";
+const double defaultLat = 55.755819;
+const double defaultLon = 37.617644;
+const String iconUrl = "https://yastatic.net/weather/i/icons/funky/dark/";
+const String HOURLY_FORECAST_PAGE = "/hourlyForecast";
